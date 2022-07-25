@@ -1,6 +1,6 @@
 
 variable "bucket_name" {
   type = string
-  default = "my-s3-bucket-112233"
+  default = ""
   
 }
